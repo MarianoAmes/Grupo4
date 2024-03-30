@@ -184,6 +184,7 @@
 |[4.7.2. Class Dictionary](#472-class-dictionary)|
 |[4.8. Database Design](#48-database-design)|
 |[4.8.1. Database Diagram](#481-database-diagram)|
+|[Bibliografía](#bibliografía)|
 
 # Student Outcome
 
@@ -250,3 +251,33 @@ EcoMove aprovecha la tecnología para conectar a los usuarios con vehículos el�
 
 ## 1.2. Solution Profile
 ### 1.2.1	Antecedentes y problemática
+
+**Antecedentes:**
+
+La problemática del envejecimiento de la flota vehicular en el transporte público y los servicios de taxi en el Perú es un tema de preocupación creciente debido a sus impactos negativos en la salud pública y el medio ambiente. Según datos proporcionados por un organismo adscrito al Ministerio de Transportes y Comunicaciones (MTC), aproximadamente el 30,6% de los vehículos que operan en el transporte público regular y alrededor del 9% de los vehículos de servicio de taxis tienen una antigüedad de más de 15 años (Espinoza, 2023). Esta situación se traduce en un riesgo significativo para la salud y la seguridad de los usuarios, ya que se estima que los vehículos con más de dos décadas de uso emiten hasta 53 veces más contaminantes que los vehículos más nuevos, los cuales tienen 5 años o menos.
+
+La preocupación por la contaminación atmosférica y la calidad del aire en las ciudades ha llevado a la implementación de diversas medidas por parte de las autoridades locales, como el impuesto sobre vehículos antiguos por parte de la Municipalidad de Lima y el programa "Pico y placa". Este último consistía en restringir la circulación de vehículos basándose en el último dígito de la placa del automóvil, con el objetivo de reducir la cantidad de vehículos en circulación y mejorar el flujo de tráfico. Sin embargo, a pesar de estos esfuerzos, estas medidas no han tenido el éxito esperado y la congestión vehicular sigue siendo un problema significativo en varias zonas de la ciudad (Romero, et al., 2022).
+
+Ante esta problemática, surge la necesidad de explorar alternativas de transporte más sostenibles y eficientes. Una opción prometedora es el uso de scooters eléctricos, que ofrecen una solución viable para evitar la congestión del tráfico y optimizar los tiempos de desplazamiento en distancias cortas. En la práctica, muchas personas utilizan scooters eléctricos para satisfacer sus necesidades de transporte en lo que se conoce como la "última milla", es decir, para conectarse con otros medios de transporte público o para realizar actividades cotidianas como ir al banco, la oficina o el gimnasio. Los scooters eléctricos son especialmente adecuados para viajes cortos de 3 a 7 kilómetros, con una duración promedio de 13 a 15 minutos, lo que los convierte en una opción conveniente y eficiente para los desplazamientos urbanos (Stakeholders, 2023).
+
+**Problemática:**
+
+|<!-- -->|<!-- -->|
+|--------|--------|
+|What (Qué):<br>¿Cuál es el problema?|El problema central que enfrenta la sociedad es la dependencia generalizada de los vehículos de combustión interna en entornos urbanos, lo que resulta en altos niveles de contaminación del aire y emisiones de carbono. Esta situación no solo afecta la calidad del aire y la salud pública, sino que también contribuye al cambio climático y a la degradación ambiental.|
+|When (Cuándo):<br>¿Cuándo sucede el problema?|El problema de la dependencia de los vehículos de combustión interna en entornos urbanos es persistente y ocurre constantemente. Se manifiesta a diario en la congestión del tráfico, la contaminación del aire y la emisión continua de gases de efecto invernadero.|
+|Where (Dónde):<br>¿Dónde se presenta el problema de negocio?|Este problema se presenta principalmente en áreas urbanas densamente pobladas donde hay una alta concentración de vehículos motorizados. Ciudades de todo el mundo enfrentan desafíos similares relacionados con la movilidad urbana y la contaminación del aire.|
+|Who (Quienes):<br>¿Quiénes están involucrados?|Los principales actores involucrados en esta problemática son los residentes urbanos que dependen de los vehículos para sus desplazamientos diarios, así como las autoridades gubernamentales y las empresas de transporte que tienen un papel clave en la formulación de políticas y la implementación de soluciones de movilidad sostenible.|
+|Why (Por qué):<br>¿Por qué se origina el problema?|Este problema surge de varios factores, que incluyen la falta de infraestructura adecuada para el transporte público, la promoción histórica del uso del automóvil privado, la falta de conciencia sobre los impactos ambientales del transporte y la falta de alternativas accesibles y asequibles de movilidad sostenible.|
+|How (Cómo):<br>¿Cómo afecta este problema a las personas involucradas?|La dependencia de los vehículos de combustión interna afecta a las personas involucradas al contribuir a la contaminación del aire, empeorar la congestión del tráfico, aumentar los costos de transporte y tener impactos negativos en la salud pública y la calidad de vida en general.|
+|How much (Cuánto):<br>¿Cuánto impacto genera el problema en la sociedad?|El problema de la dependencia de los vehículos de combustión interna tiene un impacto significativo en la sociedad, afectando la salud pública, contribuyendo al cambio climático y la degradación ambiental, aumentando los costos económicos asociados con la congestión del tráfico y generando una baja calidad de vida en las áreas urbanas.|
+
+
+
+# Bibliografía
+
+Espinoza, A. (18 de agosto de 2023). _Vehículos viejos y transporte público causan el 58% de contaminación del aire en Lima_. Infobae. https://www.infobae.com/peru/2023/08/18/vehiculos-viejos-y-transporte-publico-causan-el-58-de-contaminacion-del-aire-en-lima/
+
+Romero, V., Salazar, L., Solís, A. & Solís, J. (2022). Congestión Vehicular y Contaminación Ambiental en Lima Metropolitana. _Revista Lasallista de Investigación_, _19_(1), 152-164.
+
+Stakeholders. (28 de setiembre de 2023). _La idea de la micromovilidad es ahorrar tiempo en el tráfico y colaborar con el cuidado del medio ambiente_. https://stakeholders.com.pe/ciencia-innovacion-y-tecnologia/innovacion-y-emprendimientos/la-idea-de-la-micromovilidad-es-ahorrar-tiempo-en-el-trafico-y-colaborar-con-el-cuidado-del-medio-ambiente/
